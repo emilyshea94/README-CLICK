@@ -7,6 +7,7 @@ I added code into the file index.js that included instructions for the README an
 Then i added "if" statements to the generateMarkdown.js 
 I ran into a problem of my terminal in VScode not finding the index.js module so the README generator does not function properly.
 
+https://github.com/emilyshea94/README-CLICK
 
 ## Credits
 I used some code from Stack Overflow and also had a friend help me with other code. 
