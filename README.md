@@ -8,16 +8,6 @@ Then i added "if" statements to the generateMarkdown.js
 I ran into a problem of my terminal in VScode not finding the index.js module so the README generator does not function properly.
 
 
-
-
-
-
-
-
-
-
-
-
 ## Credits
 I used some code from Stack Overflow and also had a friend help me with other code. 
 used starter code from https://github.com/coding-boot-camp/potential-enigma
@@ -52,4 +42,3 @@ copies or substantial portions of the Software.
 
 
 
-##License 
