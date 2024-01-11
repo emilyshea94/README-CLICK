@@ -5,7 +5,7 @@ The user enters a description, installation instructions, usage information, con
 
 I added code into the file index.js that included instructions for the README and added a function
 Then i added "if" statements to the generateMarkdown.js 
-
+I ran into a problem of my terminal in VScode not finding the index.js module so the README generator does not function properly.
 
 
 
